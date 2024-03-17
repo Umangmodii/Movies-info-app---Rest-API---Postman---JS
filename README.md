@@ -20,3 +20,7 @@ Project Highlights:
 <br>
 
 Skills: HTML · Cascading Style Sheets (CSS) · JavaScript · Bootstrap · RestAPI · Postman API · JSON · Git · GitHub
+
+<hr>
+
+<B> Live Host Websites : <B> <a href = "https://newmoviesinfo.netlify.app/"> Movies - Info App </a>
