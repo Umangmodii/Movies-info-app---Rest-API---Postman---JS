@@ -1,0 +1,16 @@
+
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      margin-block: 38px;
+    }
+
+    main section {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .spinner-border {
+      display: none;
+    }
