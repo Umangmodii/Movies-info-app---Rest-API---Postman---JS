@@ -1,4 +1,4 @@
-<h3> Responsive MoviesInfo web Application | HTML, CSS, Bootstrap, JavaScript, and the Open Movie Database (OMDb) API | Rest API | Postman | PWAResponsive MoviesInfo web Application | HTML, CSS, Bootstrap, JavaScript, and the Open Movie Database (OMDb) API | Rest API | Postman | PWA </h3>
+<h3> Responsive MoviesInfo web Application | HTML, CSS, Bootstrap, JavaScript, and the Open Movie Database (OMDb) API | Rest API | Postman | PWA </h3>
 <h5> Mar 2024 - Mar 2024 </h5>
 
 <hr>
